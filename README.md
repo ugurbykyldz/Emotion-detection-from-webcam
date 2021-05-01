@@ -1,2 +1,2 @@
 # Emotion-detection-from-webcam
-![Image of Yaktocat](https://octodex.github.com/duygu.png)
+![outcome](https://github.com/ugurbykyldz/Emotion-detection-from-webcam/duygu.png)
